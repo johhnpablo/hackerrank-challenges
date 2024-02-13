@@ -14,4 +14,4 @@ function simpleArraySum($ar) {
 
 simpleArraySum($ar);
 
-// Nesse desafio utilizamos a função nativo do php array_sum(), que soma os valores de uma matriz de inteiros. 
+// Nesse desafio utilizamos a função nativo do php array_sum(), que soma os valores de uma matriz de inteiros.
